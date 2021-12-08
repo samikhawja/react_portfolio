@@ -6,7 +6,7 @@ export const projects = [
     subtitle: "Full Stack Project",
     description:
       "Move Forward to a Healthier You",
-    image: "Kanye_Yoda",
+    image: "https://www.zdnet.com/a/img/resize/8ac0b62cfee25efbf4b4baa365a98bdec5e0cd59/2021/07/19/8a337c80-5ed6-43a1-98fb-b981d420890f/programming-languages-shutterstock-1680857539.jpg?width=1200&height=1200&fit=crop&auto=webp",
     alt: "Through the Woods Webpage Screenshot",
     link: "https://github.com/samikhawja/through_the_woods",
   },
@@ -15,7 +15,7 @@ export const projects = [
     subtitle: "Full Stack Project",
     description:
       "A Kanye quote said by Yoda for you...",
-    image: "../assets/images/Yoda_Kanye.png",
+    image: "https://lh3.googleusercontent.com/proxy/ukeKOA1vj4ppwpP1spTQpF0adf8ZjDO6_33HmoMooTjUg16YFMARsjPqERxgR7UpaUOoPCNuCEDN2tRaGhP5pXzU2X3u79213JVT0TTzXytQAdgT4l9U93Ez0gRwKD3L9V-gWlnNy7iUg-J99Zby1zklX0fZJU36vqQzDUlHBg-M",
     alt: "Yoda Kanye Webpage Screenshot",
     link: "https://github.com/samikhawja/project_one",
   },
@@ -24,7 +24,7 @@ export const projects = [
     subtitle: "Full Stack Assignment",
     description:
       "Need help tracking your fitness goals? This is the perfect web application to do so!",
-    image: "../assets/images/Fitness_Tracker.png",
+    image: "https://www.techrepublic.com/a/hub/i/r/2021/02/17/3c192f18-47eb-428a-b64f-ba57fcd3c36a/resize/1200x/03e226ca44cdd6509c01aaaa6ffa0095/programming-coding.jpg",
     alt: "Fitness Tracker Webpage Screenshot",
     link: "https://github.com/samikhawja/fitness_tracker",
   },
@@ -33,7 +33,7 @@ export const projects = [
     subtitle: "Full Stack Assignment",
     description:
       "Need help tracking your money goals? This is the perfect web application to do so!",
-    image: "../assets/images/Progressive_Budget.png",
+    image: "https://www.techslang.com/wp-content/uploads/2020/08/image-from-rawpixel-id-593171-jpeg-1024x536.jpg",
     alt: "Progressive Budget Webpage Screenshot",
     link: "https://github.com/samikhawja/progressive_budget",
   },
