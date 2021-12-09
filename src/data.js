@@ -1,5 +1,3 @@
-// import Kanye_Yoda from "../assets/images/through_the_woods.png";
-
 export const projects = [
   {
     title: "Through the Woods",

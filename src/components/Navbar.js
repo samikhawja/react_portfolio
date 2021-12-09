@@ -1,5 +1,6 @@
-import { ArrowRightIcon } from "@heroicons/react/solid";
 import React from "react";
+import { ArrowRightIcon } from "@heroicons/react/solid";
+import Resume from "../assets/resume/Resume.pdf";
 
 export default function Navbar() {
   return (
@@ -23,7 +24,7 @@ export default function Navbar() {
           <a href="#contact" className="mr-5 hover:text-white">
             Connect
           </a>
-          <a href="../assets/resume/Resume.pdf" className="mr-5 hover:text-white" target="_blank" rel="noreferrer" download>
+          <a href={Resume} className="mr-5 hover:text-white" target="_blank" rel="noreferrer" download>
             Resume
           </a>
         </nav>
