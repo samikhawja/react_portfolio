@@ -13,7 +13,7 @@ export const projects = [
     subtitle: "Full Stack Project",
     description:
       "A Kanye quote said by Yoda for you...",
-    image: "https://lh3.googleusercontent.com/proxy/ukeKOA1vj4ppwpP1spTQpF0adf8ZjDO6_33HmoMooTjUg16YFMARsjPqERxgR7UpaUOoPCNuCEDN2tRaGhP5pXzU2X3u79213JVT0TTzXytQAdgT4l9U93Ez0gRwKD3L9V-gWlnNy7iUg-J99Zby1zklX0fZJU36vqQzDUlHBg-M",
+    image: "https://cdn.britannica.com/q:60/30/199930-131-B3D1D347/computer.jpg",
     alt: "Yoda Kanye Webpage Screenshot",
     link: "https://github.com/samikhawja/project_one",
   },
