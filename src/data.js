@@ -31,7 +31,7 @@ export const projects = [
     subtitle: "Full Stack Assignment",
     description:
       "Need help tracking your money goals? This is the perfect web application to do so!",
-    image: "https://www.techslang.com/wp-content/uploads/2020/08/image-from-rawpixel-id-593171-jpeg-1024x536.jpg",
+    image: "https://www.worldbook.com/images/WBBlog_KidsCoding.jpg",
     alt: "Progressive Budget Webpage Screenshot",
     link: "https://github.com/samikhawja/progressive_budget",
   },
