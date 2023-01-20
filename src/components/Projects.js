@@ -13,7 +13,7 @@ export default function Projects() {
             Apps I've Built
           </h1>
           <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-            Full Stack web applications I've built either on my own or with my team
+            Full Stack applications I've built when learning
           </p>
         </div>
         <div className="flex flex-wrap -m-4">
