@@ -14,7 +14,7 @@ export default function Contact() {
             marginHeight={0}
             marginWidth={0}
             style={{ filter: "opacity(0.7)" }}
-            src="https://www.google.com/maps/embed/v1/place?q=east+bay+area&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"
+            src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJtZZ8f0yOdjERJAcCwXJrQBo&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"
           />
           <div className="bg-gray-900 relative flex flex-wrap py-6 w-96 rounded shadow-md">
             <div className="lg:w-1/2 px-6">
@@ -22,8 +22,8 @@ export default function Contact() {
                 ADDRESS
               </h2>
               <p className="mt-1">
-                East Bay Area, <br />
-                CA 94582
+                Mũi Né, <br />
+                Vietnam
               </p>
             </div>
             <div className="lg:w-1/2 px-6 mt-4 lg:mt-0">
@@ -34,9 +34,9 @@ export default function Contact() {
                 Skhawja11@gmail.com
               </a>
               <h2 className="title-font font-semibold text-white tracking-widest text-xs mt-4">
-                PHONE
+                PHONE/WHATSAPP
               </h2>
-              <a href="tel:9255884620" className="text-indigo-400 leading-relaxed">(925)588-4620</a>
+              <a href="tel:9255884620" className="text-indigo-400 leading-relaxed">+1(925)588-4620</a>
             </div>
           </div>
         </div>

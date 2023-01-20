@@ -1,18 +1,24 @@
 export const projects = [
   {
+    title: "Robert Half",
+    subtitle: "Full Stack Developer",
+    description: "Helped maintain drupal sites and part of new project, building sites on AEM",
+    image: "https://www.worldbook.com/images/WBBlog_KidsCoding.jpg",
+    alt: "Progressive Budget Webpage Screenshot",
+    link: "https://roberthalf.com",
+  },
+  {
     title: "Through the Woods",
     subtitle: "Full Stack Project",
-    description:
-      "Move Forward to a Healthier You",
-    image: "https://www.zdnet.com/a/img/resize/8ac0b62cfee25efbf4b4baa365a98bdec5e0cd59/2021/07/19/8a337c80-5ed6-43a1-98fb-b981d420890f/programming-languages-shutterstock-1680857539.jpg?width=1200&height=1200&fit=crop&auto=webp",
+    description: "Move Forward to a Healthier You",
+    image: "https://www.itprotoday.com/sites/itprotoday.com/files/styles/article_featured_retina/public/programming%20evolution.jpg?itok=WTj9-yNz",
     alt: "Through the Woods Webpage Screenshot",
     link: "https://github.com/samikhawja/through_the_woods",
   },
   {
     title: "Yoda Kanye",
     subtitle: "Full Stack Project",
-    description:
-      "A Kanye quote said by Yoda for you...",
+    description: "A Kanye quote said by Yoda for you...",
     image: "https://cdn.britannica.com/q:60/30/199930-131-B3D1D347/computer.jpg",
     alt: "Yoda Kanye Webpage Screenshot",
     link: "https://github.com/samikhawja/project_one",
@@ -20,20 +26,10 @@ export const projects = [
   {
     title: "Fitness Tracker",
     subtitle: "Full Stack Assignment",
-    description:
-      "Need help tracking your fitness goals? This is the perfect web application to do so!",
-    image: "https://www.itprotoday.com/sites/itprotoday.com/files/styles/article_featured_retina/public/programming%20evolution.jpg?itok=WTj9-yNz",
+    description: "Need help tracking your fitness goals? This is the perfect web application to do so!",
+    image: "https://www.zdnet.com/a/img/resize/8ac0b62cfee25efbf4b4baa365a98bdec5e0cd59/2021/07/19/8a337c80-5ed6-43a1-98fb-b981d420890f/programming-languages-shutterstock-1680857539.jpg?width=1200&height=1200&fit=crop&auto=webp",
     alt: "Fitness Tracker Webpage Screenshot",
     link: "https://github.com/samikhawja/fitness_tracker",
-  },
-  {
-    title: "Progressive Budget",
-    subtitle: "Full Stack Assignment",
-    description:
-      "Need help tracking your money goals? This is the perfect web application to do so!",
-    image: "https://www.worldbook.com/images/WBBlog_KidsCoding.jpg",
-    alt: "Progressive Budget Webpage Screenshot",
-    link: "https://github.com/samikhawja/progressive_budget",
   },
 ];
 
@@ -65,13 +61,13 @@ export const skills = [
   "CSS",
   "Node.js",
   "React",
-  "MySql",
-  "PWA",
-  "MongoDB",
-  "OOP",
-  "JWT",
-  "Apollo GraphQL",
-  "AJAX/Fetch",
+  "API",
+  "jQuery",
   "Git",
+  "Agile",
+  "PWA",
+  "Unit Testing",
+  "Open Source Database",
+  "Pseudocode",
 ];
   
